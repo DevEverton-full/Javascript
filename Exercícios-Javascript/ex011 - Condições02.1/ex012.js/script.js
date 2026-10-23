@@ -33,3 +33,4 @@ var diaSem = agora.getDay()
      default: console.log('Dia invalido')
      break
  }
+ //condição composta

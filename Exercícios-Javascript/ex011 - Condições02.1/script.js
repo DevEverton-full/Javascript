@@ -9,3 +9,4 @@ if (hora < 12){
 }else if(hora > 17){
     console.log('Boa Noite!')
 }
+//condição composta

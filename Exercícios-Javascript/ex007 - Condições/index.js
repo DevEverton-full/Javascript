@@ -5,5 +5,6 @@ if(vel > 60){ //condição simples!
 }else {
     console.log(`Muito bem, ande sempre com segurança`)
 }
+//condição composta
 
 

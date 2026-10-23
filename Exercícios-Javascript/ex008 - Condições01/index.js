@@ -5,5 +5,5 @@ if (país == 'Brasil') {
 } else{
     console.log('Estrangeiro!')
 }
-
+//condição composta
 
