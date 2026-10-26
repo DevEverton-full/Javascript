@@ -1,5 +1,5 @@
-var a = 1
-while ( a <= 6) {
-    console.log('Olá meu amigo!')
-    a++
+var casa = 1
+while (casa <= 10){
+    console.log(`Economizei ${casa} meses para comprar uma casa!`)
+    casa++
 } 
